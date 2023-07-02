@@ -3,7 +3,7 @@ emoji: 🧢
 title: 02. Collaborative Filtering
 date: '2021-03-28 23:00:00'
 author: 민영
-tags: blog gatsby theme 개츠비 테마
+tags: -
 categories: 추천시스템
 ---
 

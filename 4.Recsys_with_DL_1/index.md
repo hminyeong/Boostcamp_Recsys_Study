@@ -3,7 +3,7 @@ emoji: 🧢
 title: 04. RecSys with DL_1
 date: '2021-03-25 23:00:00'
 author: 민영
-tags: blog gatsby theme 개츠비 테마
+tags: -
 categories: 추천시스템
 ---
 

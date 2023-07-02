@@ -3,7 +3,7 @@ emoji: 🧢
 title: 06. Deeper_Recsys(context-aware Recommendation)
 date: '2021-03-23 23:00:00'
 author: 민영
-tags: blog gatsby theme 개츠비 테마
+tags: -
 categories: 추천시스템
 ---
 

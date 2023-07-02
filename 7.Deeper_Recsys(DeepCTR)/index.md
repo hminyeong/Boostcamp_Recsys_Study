@@ -3,7 +3,7 @@ emoji: 🧢
 title: 07. Deeper_Recsys(DeepCTR)
 date: '2021-03-22 23:00:00'
 author: 민영
-tags: blog gatsby theme 개츠비 테마
+tags: -
 categories: 추천시스템
 ---
 
